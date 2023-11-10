@@ -1,0 +1,6 @@
+SantaBarbara 1.0
+
+  - Cifrado de comunicacion de extremo a extremo TLS.
+  - Modulo de inicio y registro de sesiones.
+  - Publciacion de especialidades disponible.
+  - Registro y muestra de citas medicas en tiempo.
